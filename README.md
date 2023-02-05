@@ -1,18 +1,18 @@
 # Hola Soy Gonza Trevisani
 
-👋 ¿Quién soy?
+**👋 ¿Quién soy?**
 
 Soy un graduado en desarrollo web full stack en Henry. Descubrí el mundo de la programación a través de amigos con recomendaciones y desde aquella vez que dije 'vamos a probar', todavia estoy ilusionadisimo con seguir y seguir aprendiendo. Decidí anotarme al bootcamp de Henry, en el cuál aprendí y profundizé mucho sobre código, tecnologías, y también la importancia del trabajo en equipo. Lo que más me gusta de este mundo es que todavia hay muchisimo por aprender, y eso es un gran disparador de motivación para mi curiosidad. 🤓🧠🚀
 
-⏪ ¿De dónde vengo?
+**⏪ ¿De dónde vengo?**
 
 Trabajaba como empleado en Burger King, y me desempeñé durante cuatro años adentro de la empresa, hasta que me recomendaron Henry. Era una desición dificil debido a que en el trabajo no me daban tanta flexibilidad para arrancar de manera full-time en el bootcamp. Pero tome la desicion de dejar el trabajo para ir hacia otros horizontes. Hoy puedo decir que fue una de las desiciones que me cambio la vida.
 
-🔭 ¿Hacia dónde voy?
+**🔭 ¿Hacia dónde voy?**
 
 A donde sea que pueda aportar soluciones a través del código y me permita mejorar dia a dia. Creo que el destino no es un lugar fisico al cual dirigirse, sino en seguir cumpliendose metas uno mismo y ser siempre un poquito mejor que ayer. Elijo aquellos procesos donde me sienta seguro pero desafiado, exigido pero también cuidado y premiado.
 
-🧰 ¿Qué tecnologías y lenguajes uso?
+**🧰 ¿Qué tecnologías y lenguajes uso?**
 
 * JavaScript
 * HTML
@@ -25,7 +25,7 @@ A donde sea que pueda aportar soluciones a través del código y me permita mejo
 * PostgreSQL
 * MongoDB
 
-📂 ¿Qué proyectos realicé? 
+**📂 ¿Qué proyectos realicé? **
 
 1. Proyecto Individual - Henry BootCamp
 
