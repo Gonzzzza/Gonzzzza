@@ -25,7 +25,7 @@ A donde sea que pueda aportar soluciones a través del código y me permita mejo
 * PostgreSQL
 * MongoDB
 
-**📂 ¿Qué proyectos realicé? **
+**📂 ¿Qué proyectos realicé?**
 
 1. Proyecto Individual - Henry BootCamp
 
